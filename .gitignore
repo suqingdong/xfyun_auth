@@ -1,0 +1,9 @@
+.vscode
+.env
+
+__pycache__
+
+*.py[cdo]
+*.sh
+
+tests

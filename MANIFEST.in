@@ -1,0 +1,2 @@
+include xfyun_auth/version.json
+include requirements.txt

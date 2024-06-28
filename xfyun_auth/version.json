@@ -1,0 +1,8 @@
+{
+    "prog": "xfyun_auth",
+    "desc": "科大讯飞API接口通用鉴权",
+    "url": "https://github.com/suqingdong/xfyun_auth",
+    "author": "suqingdong",
+    "author_email": "suqingdong1114@gmail.com",
+    "version": "1.0.0"
+}
